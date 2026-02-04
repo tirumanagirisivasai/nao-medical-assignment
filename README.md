@@ -2,10 +2,9 @@
 
 ## Project Overview
 
-This project is a Streamlit-based web application designed to facilitate real-time communication between doctors and patients who speak different languages. The application supports multilingual text and speech translation, persistent conversation logging, and post-conversation analysis through AI-generated summaries.
-
-The primary goal of this project is to demonstrate an end-to-end applied AI system involving speech recognition, translation, NoSQL data storage, and LLM-based summarization, with a strong emphasis on privacy-aware design choices suitable for healthcare use cases.
-
+This project is a Streamlit-based web application designed to facilitate real-time communication between doctors and patients who speak different languages. The application supports multilingual text and speech translation, persistent conversation logging, and post-conversation analysis through AI-generated summaries. The primary goal of this project is to demonstrate an end-to-end applied AI system involving speech recognition, translation, NoSQL data storage, and LLM-based summarization, with a strong emphasis on privacy-aware design choices suitable for healthcare use cases. <br>
+---
+Live demo [here](https://huggingface.co/spaces/evolvingtransformer/nao-medical-assignement)
 ---
 
 ## Features Attempted & Completed
