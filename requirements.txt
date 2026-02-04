@@ -1,0 +1,9 @@
+altair
+pandas
+streamlit
+firebase-admin
+ffmpeg
+deep-translator>=1.11.4
+openai-whisper
+torch
+#ollama>=0.1.7 #Local LLM (used only in local mode)
